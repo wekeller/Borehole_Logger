@@ -1,0 +1,20 @@
+Enclosure for Arduino by Adafruit
+
+  Circuitry
+Arduino Uno
+Adafruit Proto ShieldWhite 
+
+  LCD
+Sparkfun LCD Kit https://www.sparkfun.com/products/10097  contrains it's own ATMega chip, may or may not use another device for measurement
+  Code: https://www.sparkfun.com/tutorials/289
+
+  Connectors
+1/4 in stereo jack
+
+  Power
+4x AAA
+1N4001 Diode - this bumps down the voltage to a correct regulated amount
+
+  Stick
+Labor Saving Device 10ft http://a.co/6esEnIE (made 6ft due to wire storage reasons)
+DS18B20 Temperature Sensor
